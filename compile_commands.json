@@ -1,0 +1,977 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_strnstr.o",
+      "ft_strnstr.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strnstr.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strnstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_isdigit.o",
+      "ft_isdigit.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_isdigit.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_isdigit.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_putstr_fd.o",
+      "ft_putstr_fd.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_putstr_fd.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_putstr_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_strlcpy.o",
+      "ft_strlcpy.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strlcpy.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strlcpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_strlen.o",
+      "ft_strlen.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strlen.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strlen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_memcmp.o",
+      "ft_memcmp.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_memcmp.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_memcmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_putnbr_fd.o",
+      "ft_putnbr_fd.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_putnbr_fd.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_putnbr_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_strchr.o",
+      "ft_strchr.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strchr.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_striteri.o",
+      "ft_striteri.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_striteri.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_striteri.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_bzero.o",
+      "ft_bzero.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_bzero.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_bzero.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_strjoin.o",
+      "ft_strjoin.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strjoin.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strjoin.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_isascii.o",
+      "ft_isascii.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_isascii.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_isascii.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_memcpy.o",
+      "ft_memcpy.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_memcpy.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_memcpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_isprint.o",
+      "ft_isprint.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_isprint.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_isprint.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_putendl_fd.o",
+      "ft_putendl_fd.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_putendl_fd.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_putendl_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_toupper.o",
+      "ft_toupper.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_toupper.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_toupper.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_split.o",
+      "ft_split.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_split.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_split.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_isalpha.o",
+      "ft_isalpha.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_isalpha.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_isalpha.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_memchr.o",
+      "ft_memchr.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_memchr.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_memchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_putchar_fd.o",
+      "ft_putchar_fd.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_putchar_fd.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_putchar_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_memset.o",
+      "ft_memset.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_memset.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_memset.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_substr.o",
+      "ft_substr.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_substr.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_substr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_strncmp.o",
+      "ft_strncmp.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strncmp.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strncmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_strmapi.o",
+      "ft_strmapi.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strmapi.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strmapi.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_strtrim.o",
+      "ft_strtrim.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strtrim.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strtrim.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_memmove.o",
+      "ft_memmove.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_memmove.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_memmove.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_strlcat.o",
+      "ft_strlcat.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strlcat.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strlcat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_calloc.o",
+      "ft_calloc.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_calloc.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_calloc.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_strdup.o",
+      "ft_strdup.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strdup.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strdup.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_atoi.o",
+      "ft_atoi.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_atoi.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_atoi.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_isalnum.o",
+      "ft_isalnum.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_isalnum.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_isalnum.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_itoa.o",
+      "ft_itoa.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_itoa.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_itoa.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_tolower.o",
+      "ft_tolower.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_tolower.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_tolower.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_strrchr.o",
+      "ft_strrchr.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strrchr.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_strrchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "check_flags.o",
+      "check_flags.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/check_flags.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/check_flags.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_printf.o",
+      "ft_printf.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_printf.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_printf.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "print_i.o",
+      "print_i.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/print_i.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/print_i.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "print_p.o",
+      "print_p.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/print_p.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/print_p.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "print_str.o",
+      "print_str.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/print_str.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/print_str.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "print_u.o",
+      "print_u.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/print_u.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/print_u.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "print_x.o",
+      "print_x.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/print_x.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/print_x.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_lstadd_back.o",
+      "ft_lstadd_back.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstadd_back.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstadd_back.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_lstadd_front.o",
+      "ft_lstadd_front.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstadd_front.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstadd_front.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_lstclear.o",
+      "ft_lstclear.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstclear.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstclear.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_lstdelone.o",
+      "ft_lstdelone.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstdelone.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstdelone.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_lstiter.o",
+      "ft_lstiter.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstiter.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstiter.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_lstlast.o",
+      "ft_lstlast.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstlast.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstlast.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_lstmap.o",
+      "ft_lstmap.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstmap.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstmap.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_lstnew.o",
+      "ft_lstnew.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstnew.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstnew.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "ft_lstsize.o",
+      "ft_lstsize.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstsize.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/ft_lstsize.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c99",
+      "-I",
+      "./includes/",
+      "-c",
+      "-o",
+      "get_next_line.o",
+      "get_next_line.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell/libft",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/libft/get_next_line.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/libft/get_next_line.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-fsanitize=address",
+      "-g3",
+      "-I./includes/",
+      "-Ilibft",
+      "-c",
+      "-o",
+      "objs/test.o",
+      "srcs/test.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/srcs/test.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/objs/test.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-fsanitize=address",
+      "-g3",
+      "-I./includes/",
+      "-Ilibft",
+      "-c",
+      "-o",
+      "objs/helper.o",
+      "srcs/helper.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/srcs/helper.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/objs/helper.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-fsanitize=address",
+      "-g3",
+      "-I./includes/",
+      "-Ilibft",
+      "-c",
+      "-o",
+      "objs/env.o",
+      "srcs/env.c"
+    ],
+    "directory": "/Users/menghongho/Downloads/42_core/minishell",
+    "file": "/Users/menghongho/Downloads/42_core/minishell/srcs/env.c",
+    "output": "/Users/menghongho/Downloads/42_core/minishell/objs/env.o"
+  }
+]
